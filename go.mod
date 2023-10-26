@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/Masterminds/sprig v2.22.0+incompatible
 	github.com/acarl005/stripansi v0.0.0-20180116102854-5a71ef0e047d
-	github.com/containrrr/shoutrrr v0.7.1
+	github.com/containrrr/shoutrrr v0.8.0
 	github.com/json-iterator/go v1.1.12
 	github.com/khulnasoft-labs/goflags v0.1.11
 	github.com/khulnasoft-labs/gologger v1.1.11
@@ -74,7 +74,7 @@ require (
 	golang.org/x/net v0.12.0 // indirect
 	golang.org/x/oauth2 v0.10.0 // indirect
 	golang.org/x/sys v0.10.0 // indirect
-	golang.org/x/tools v0.6.0 // indirect
+	golang.org/x/tools v0.7.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/protobuf v1.31.0 // indirect
 	gopkg.in/djherbis/times.v1 v1.3.0 // indirect
