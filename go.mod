@@ -9,7 +9,7 @@ require (
 	github.com/json-iterator/go v1.1.12
 	github.com/khulnasoft-labs/goflags v0.1.11
 	github.com/khulnasoft-labs/gologger v1.1.11
-	github.com/khulnasoft-labs/utils v0.0.45
+	github.com/khulnasoft-labs/utils v0.0.47
 	github.com/logrusorgru/aurora v2.0.3+incompatible
 	github.com/oriser/regroup v0.0.0-20230527212431-1b00c9bdbc5b
 	github.com/pkg/errors v0.9.1
