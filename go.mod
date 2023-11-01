@@ -7,7 +7,7 @@ require (
 	github.com/acarl005/stripansi v0.0.0-20180116102854-5a71ef0e047d
 	github.com/containrrr/shoutrrr v0.7.1
 	github.com/json-iterator/go v1.1.12
-	github.com/khulnasoft-labs/goflags v0.1.11
+	github.com/khulnasoft-labs/goflags v0.1.16
 	github.com/khulnasoft-labs/gologger v1.1.11
 	github.com/khulnasoft-labs/utils v0.0.45
 	github.com/logrusorgru/aurora v2.0.3+incompatible
