@@ -11,7 +11,7 @@ require (
 	github.com/khulnasoft-lab/gologger v1.1.13
 	github.com/khulnasoft-lab/utils v0.0.47
 	github.com/logrusorgru/aurora v2.0.3+incompatible
-	github.com/oriser/regroup v0.0.0-20230527212431-1b00c9bdbc5b
+	github.com/oriser/regroup v0.0.0-20240925165441-f6bb0e08289e
 	github.com/pkg/errors v0.9.1
 	go.uber.org/multierr v1.11.0
 	go.uber.org/ratelimit v0.3.1
